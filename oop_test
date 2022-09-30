@@ -2,10 +2,10 @@ import random
 from urllib.request import urlopen
 import sys
 
-"""Enter "python oop_test.py" into terminal to run python to english or
-"python oop_test.py english" to run english to python. """
+#Enter "python oop_test.py" into terminal to run python to english or
+#"python oop_test.py english" to run english to python.
 
-"""Credits to LPTHW by Zed Shaw"""
+#Credits to LPTHW by Zed Shaw
 
 WORD_URL = "http://learncodethehardway.org/words.txt"
 WORDS = []
